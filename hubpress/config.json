@@ -4,7 +4,12 @@
     "repositoryName": "tech-blog",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "리미의 기술 블로그",
+    "description": "주니어 개발자의 기술 저장소"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
